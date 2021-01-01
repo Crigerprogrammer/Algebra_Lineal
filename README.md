@@ -13,3 +13,5 @@ Existen **Bloque o stack de vectores**. Es un vector que tiene dentro más vecto
 **Subvectores** Son una porción de un vector y se detona con : para limitar el indice de inicio y el final
 
 **Cero Vectores**: Un cero vector es un vector donde todos los elementos son 0. Ejemplo: **0** = (0,0)
+
+**Uno Vectores** Un uno vector es un vector donde todos los elementos son 1. Ejemplo: **1** = (1,1)
