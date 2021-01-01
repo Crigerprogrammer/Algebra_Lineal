@@ -18,3 +18,5 @@ Existen **Bloque o stack de vectores**. Es un vector que tiene dentro más vecto
 
 **Vectores Unitarios** Un vector unitario es aquel donde todos sus elementos son 0, menos un elemento con valor 1. Ejemplo: **a** = (0,1,0)
 
+### Vectores en Python
+Los vectores en python se representan con la estructura de datos *listas*, como ejemplo: rojo=[255,0,0] 
