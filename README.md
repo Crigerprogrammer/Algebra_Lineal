@@ -15,3 +15,6 @@ Existen **Bloque o stack de vectores**. Es un vector que tiene dentro más vecto
 **Cero Vectores**: Un cero vector es un vector donde todos los elementos son 0. Ejemplo: **0** = (0,0)
 
 **Uno Vectores** Un uno vector es un vector donde todos los elementos son 1. Ejemplo: **1** = (1,1)
+
+**Vectores Unitarios** Un vector unitario es aquel donde todos sus elementos son 0, menos un elemento con valor 1. Ejemplo: **a** = (0,1,0)
+
