@@ -20,3 +20,6 @@ Existen **Bloque o stack de vectores**. Es un vector que tiene dentro más vecto
 
 ### Vectores en Python
 Los vectores en python se representan con la estructura de datos *listas*, como ejemplo: rojo=[255,0,0] 
+
+### Adición entre vectores
+Los vectores de la misma dimensión se pueden sumar elemento a elemento, esta operación es denotada por el operador **+**.
