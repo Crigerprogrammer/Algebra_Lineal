@@ -26,3 +26,14 @@ Los vectores de la misma dimensión se pueden sumar elemento a elemento, esta op
 *OJO*: Únicamente se pueden sumar vectores de la misma dimensión
 Ejemplo:
  (1,2,3) + (-1,-2,-3) = (1 -1, 2 - 2, 3 - 3) = (0, 0, 0) = 0
+
+### Propiedades de la adición entre vectores
+La adición entre vectores cumple ciertas propiedades, las cuales son:
+- La suma de vectores es conmutativa:
+    - a + b = b + a
+- La suma de vectores es asociativa:
+    - (a+b) + c = a + (b+c)
+- La suma entre vectores, cuando hay un vector 0, no surte algún efecto:
+    - a + 0 = 0 + a = a
+- Sumar un vector con su inverso (vector negativo), da como resultado 0
+    - a + (-a) = 0 
