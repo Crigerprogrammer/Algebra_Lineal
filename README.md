@@ -37,3 +37,6 @@ La adición entre vectores cumple ciertas propiedades, las cuales son:
     - a + 0 = 0 + a = a
 - Sumar un vector con su inverso (vector negativo), da como resultado 0
     - a + (-a) = 0 
+
+## Numpy
+Numpy es una biblioteca de Python que nos proporciona funciones para operar vectores, matrices y entre otras operaciones de alto nivel matemáticas
