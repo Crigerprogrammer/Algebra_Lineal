@@ -23,3 +23,6 @@ Los vectores en python se representan con la estructura de datos *listas*, como 
 
 ### Adición entre vectores
 Los vectores de la misma dimensión se pueden sumar elemento a elemento, esta operación es denotada por el operador **+**.
+*OJO*: Únicamente se pueden sumar vectores de la misma dimensión
+Ejemplo:
+ (1,2,3) + (-1,-2,-3) = (1 -1, 2 - 2, 3 - 3) = (0, 0, 0) = 0
