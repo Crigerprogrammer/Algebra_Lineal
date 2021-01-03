@@ -45,3 +45,10 @@ Numpy es una biblioteca de Python que nos proporciona funciones para operar vect
 Para la multiplicación de un escalar y vector, el escalar se multiplica por cada elemento interno del vector. Ejemplo:
 - vector v(0,1,-2.3) * escalar a=-1.1 = av -1.1*(0,1,-2.3) es decir:
 - av = (-1.1x0, -1.1x1, -1.1x-2.3) = (0, -1,1, 2.53)
+
+### Propiedades del producto escalar-vector
+Al igual que la suma la multiplicacion entre escalar y vector tiene una cantidad de propiedades, las cuales son:
+- Conmutativa: ax = xa
+- Asociativa (ab)x = a(bx)
+- Distribución sobre suma escalar: (a + b)x = ax + bx 
+- Distribución sobre suma de vectores: a(x + y) = ax + ay
