@@ -40,3 +40,8 @@ La adición entre vectores cumple ciertas propiedades, las cuales son:
 
 ## Numpy
 Numpy es una biblioteca de Python que nos proporciona funciones para operar vectores, matrices y entre otras operaciones de alto nivel matemáticas
+
+### Producto escalar-vector
+Para la multiplicación de un escalar y vector, el escalar se multiplica por cada elemento interno del vector. Ejemplo:
+- vector v(0,1,-2.3) * escalar a=-1.1 = av -1.1*(0,1,-2.3) es decir:
+- av = (-1.1x0, -1.1x1, -1.1x-2.3) = (0, -1,1, 2.53)
