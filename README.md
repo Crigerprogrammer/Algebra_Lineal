@@ -52,3 +52,6 @@ Al igual que la suma la multiplicacion entre escalar y vector tiene una cantidad
 - Asociativa (ab)x = a(bx)
 - Distribución sobre suma escalar: (a + b)x = ax + bx 
 - Distribución sobre suma de vectores: a(x + y) = ax + ay
+
+### Producto por escalar en Python
+Para realizar la operación producto entre un vector y escalar en python, bastará con importar la librería numpy, declarar un arreglonumpy y posteriormente multiplicar por cualquier escalar y se realizará la multiplicación del escalar por cada elemento del vector.
