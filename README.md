@@ -69,3 +69,6 @@ Simplemente es la suma del producto de sus entradas. El producto entre dos vecto
 
 ### Transposición
 La operación transposición de un vector es la transpuesta de un vector a otra forma. El **estándar** de representación de vectores es por medio de columnas, la transpuesta de un vector columna es un vector renglón. 
+
+### Algunas funciones lineales
+**Función producto interno** (Rn X Rn -> R)
