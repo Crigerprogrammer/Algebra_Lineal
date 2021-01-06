@@ -4,3 +4,8 @@ def gradF(z):
 
 z = np.array([1, 2])
 print('grad(f)[1,2 = ', gradF(z))
+
+def taylor_F(x,z):
+    fz = F(z)
+    gz = gradF(z)
+    return fz + gz@(x-z)
