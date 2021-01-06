@@ -72,3 +72,4 @@ La operación transposición de un vector es la transpuesta de un vector a otra 
 
 ### Algunas funciones lineales
 **Función producto interno** (Rn X Rn -> R)
+**Funciones afines**
