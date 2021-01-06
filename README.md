@@ -74,3 +74,4 @@ La operación transposición de un vector es la transpuesta de un vector a otra 
 **Función producto interno** (Rn X Rn -> R)
 **Funciones afines**
 ### Aproximaciones de Taylor
+La mayoría de los fenómenos de la realidad solo pueden ser aproximados a través de funciones no-lineales y algunas veces es más sencillo aproximarnos con funciones afines o lineales. 
