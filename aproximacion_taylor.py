@@ -9,3 +9,11 @@ def taylor_F(x,z):
     fz = F(z)
     gz = gradF(z)
     return fz + gz@(x-z)
+
+print('Taylor es: ,', taylor_F(z,z))
+
+def df(z):
+    return 2*z - 3*z**2
+
+def tf(x,z):
+    return f(z) + df(z)*(x-z)
