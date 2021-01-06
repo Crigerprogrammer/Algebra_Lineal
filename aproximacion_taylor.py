@@ -17,3 +17,4 @@ def df(z):
 
 def tf(x,z):
     return f(z) + df(z)*(x-z)
+
