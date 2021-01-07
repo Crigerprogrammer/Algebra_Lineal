@@ -79,3 +79,5 @@ La mayoría de los fenómenos de la realidad solo pueden ser aproximados a trav�
 Los modelos de regresión, es cuando nos estamos aproximando a estimar nuestra variable dependiente, algunas veces llamda también label, etiqueta o resultado esperados
 
 ## Como calcular distancias de vectores
+
+### Desviaciones estándar y ángulos
