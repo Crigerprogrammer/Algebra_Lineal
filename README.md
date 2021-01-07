@@ -77,3 +77,5 @@ La operación transposición de un vector es la transpuesta de un vector a otra 
 La mayoría de los fenómenos de la realidad solo pueden ser aproximados a través de funciones no-lineales y algunas veces es más sencillo aproximarnos con funciones afines o lineales. 
 ### Regresión Lineal
 Los modelos de regresión, es cuando nos estamos aproximando a estimar nuestra variable dependiente, algunas veces llamda también label, etiqueta o resultado esperados
+
+## Como calcular distancias de vectores
