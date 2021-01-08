@@ -81,3 +81,7 @@ Los modelos de regresión, es cuando nos estamos aproximando a estimar nuestra v
 ## Como calcular distancias de vectores
 
 ### Desviaciones estándar y ángulos
+
+## Clustering
+
+Clusterizar es una colección de vectores en grupos o clústers de vectores que son los que estarán cerca unos de otros y todo a través de medir las distancias a pares
